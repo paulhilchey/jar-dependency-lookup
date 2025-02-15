@@ -9,4 +9,5 @@ Improvements:
 To use, unpack in your DevSecOps toolkit. Then, modify installJarsLocally.sh,
 replacing references to JarDependencyLookup-1.0.jar with JarDependencyLookup-2.0.jar.
 
-If you want to deploy artifacts into an enterprise Nexus repository, use the installJarsRemote.sh.
+If you want to deploy artifacts into an enterprise Nexus repository, use the installJarsRemote.sh
+in the example directory.
